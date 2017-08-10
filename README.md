@@ -6,4 +6,7 @@ This repository contains all the machine learning practice-problems that I have 
 Content
 ---
 
-* Linear Regression : 
+* Linear Regression : Solved exercise1 of Andrew NG's Stanford Machine Learning course on coursera.
+  * **Univariate linear regression** to predict the profit of the trucks based on the population of the city.
+  * **Multivariate linear regression** to predict the price of the house given the house size and number of bedrooms.
+* Logistic Regression :
