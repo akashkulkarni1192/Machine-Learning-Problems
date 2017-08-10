@@ -5,3 +5,5 @@ This repository contains all the machine learning practice-problems that I have 
 
 Content
 ---
+
+* Linear Regression : 
