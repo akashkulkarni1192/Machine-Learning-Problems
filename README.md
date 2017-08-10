@@ -12,5 +12,8 @@ Content
 * Logistic Regression : Solved exercise1 part2 of Andrew NG's Stanford Machine Learning course on coursera.
   * **Simple logistic regression** to predict the result of a student admission based on their marks in two exams.
   * **Regularized logistic regression** to predict if a microchip produced would be accepted/rejected based on its two test values. Since the data is **not linear** so I **created a bunch of polynomial features** to feed into the classifier to fit this non-linear data.
-* ANN on gaussian distribution : Created random gaussian distribution data centered around three different point to serve as 3 different classes. I then trained a Neural Network with cross entropy cost function using backpropagation algorithm.
-* Convolution examples : 
+* ANN on gaussian distribution : Created random gaussian distribution data centered around three different point to serve as 3 different classes. I then trained a **Neural Network with cross entropy cost function using backpropagation algorithm**.
+* Convolution examples : To get an understanding of how convolution can used to extract features, I used three basic filters to implement convolution over image and audio files,
+  * Blurring of an image
+  * Detecting horizontal and vertical edges of an image
+  * Producing the echo of a music
